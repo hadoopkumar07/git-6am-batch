@@ -165,3 +165,7 @@ Insert into APPS.XXCUS_INV_LINES
    (402, 205, 4, 'AIR', 67.67, 1318, 5527378, 1318, TO_DATE('02/27/2017 17:21:28', 'MM/DD/YYYY HH24:MI:SS'), TO_DATE('02/27/2017 17:21:28', 'MM/DD/YYYY HH24:MI:SS'));
 END;
    COMMIT;
+changes done in github
+                                                                                                                     
+                                                                                                                     
+                                                                                                                     
